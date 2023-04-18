@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context=".Home">
+
+<GridLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:columnCount="2"
+    android:rowCount="5"
+    >
+    <ImageButton
+        android:id="@+id/ethirneechal"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:adjustViewBounds="true"
+        android:scaleType="fitCenter"
+        android:src="@raw/ethirneechal"/>
+
+    <ImageButton
+        android:id="@+id/kayal"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:adjustViewBounds="true"
+        android:scaleType="fitCenter"
+        android:src="@raw/kayal"/>
+
+    <ImageButton
+        android:id="@+id/iniya"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:adjustViewBounds="true"
+        android:scaleType="fitCenter"
+        android:src="@raw/iniya"/>
+
+    <ImageButton
+        android:id="@+id/sundari"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:adjustViewBounds="true"
+        android:scaleType="fitCenter"
+        android:src="@raw/sundari"/>
+    <ImageButton
+        android:id="@+id/vanathaipola"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:adjustViewBounds="true"
+        android:scaleType="fitCenter"
+        android:src="@raw/vanathaipola"/>
+
+
+    <ImageButton
+        android:id="@+id/baakiyalakshmi"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:adjustViewBounds="true"
+        android:scaleType="fitCenter"
+        android:src="@raw/baakiyalakshmi"/>
+    <ImageButton
+        android:id="@+id/eeramaanarojaave"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:adjustViewBounds="true"
+        android:scaleType="fitCenter"
+        android:src="@raw/eeramaanarojaave"/>
+
+    <ImageButton
+        android:id="@+id/katrukennaveli"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:adjustViewBounds="true"
+        android:scaleType="fitCenter"
+        android:src="@raw/katrukennaveli"/>
+
+    <ImageButton
+        android:id="@+id/mahanadhi"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:adjustViewBounds="true"
+        android:scaleType="fitCenter"
+        android:src="@raw/mahanadhi"/>
+
+    <ImageButton
+        android:id="@+id/pandianstores"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:adjustViewBounds="true"
+        android:scaleType="fitCenter"
+        android:src="@raw/pandianstores"/>
+
+    <ImageButton
+        android:id="@+id/siragadikkaaasai"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:adjustViewBounds="true"
+        android:scaleType="fitCenter"
+        android:src="@raw/siragadikkaaasai"/>
+    <ImageButton
+        android:id="@+id/tamizhumsaraswathiyum"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:adjustViewBounds="true"
+        android:scaleType="fitCenter"
+        android:src="@raw/tamizhumsaraswathiyum"/>
+    <ImageButton
+        android:id="@+id/thendralvanthuennaithodum"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:adjustViewBounds="true"
+        android:scaleType="fitCenter"
+        android:src="@raw/thendralvanthuennaithodum"/>
+    <ImageButton
+        android:id="@+id/aahakalyanam"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:adjustViewBounds="true"
+        android:scaleType="fitCenter"
+        android:src="@raw/aahakalyanam"/>
+    <ImageButton
+    android:id="@+id/ponni"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_columnWeight="1"
+    android:layout_rowWeight="1"
+    android:adjustViewBounds="true"
+    android:scaleType="fitCenter"
+    android:src="@raw/ponni"/>
+
+    <ImageButton
+        android:id="@+id/chellamma"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:adjustViewBounds="true"
+        android:scaleType="fitCenter"
+        android:src="@raw/chellamma"/>
+
+
+
+    <ImageButton
+        android:id="@+id/supersinger"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:adjustViewBounds="true"
+        android:scaleType="fitCenter"
+        android:src="@raw/supersinger"/>
+
+    <ImageButton
+    android:id="@+id/puthia"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_columnWeight="1"
+    android:layout_rowWeight="1"
+    android:adjustViewBounds="true"
+    android:scaleType="fitCenter"
+    android:src="@raw/puthia"
+    />
+    <ImageButton
+        android:id="@+id/sun"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:adjustViewBounds="true"
+        android:scaleType="fitCenter"
+        android:src="@raw/sun"
+        />
+
+
+</GridLayout>
+
+
+</ScrollView>
+
+
+
+
+
