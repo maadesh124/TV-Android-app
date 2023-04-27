@@ -55,12 +55,7 @@ public class News extends AppCompatActivity {
        r.setBackgroundColor(Color.BLACK);
         webView.setWebViewClient(new WebViewClient() {
 
-            @Override
-            public boolean shouldOverrideUrlLoading(WebView view, WebResourceRequest request) {
-                // Don't load any new pages when a URL is clicked in the WebView
-                return true;
-            }
-                                     @Override
+                              @Override
                                      public void onPageFinished(WebView view, String url) {
                                         progressBar.setVisibility(View.INVISIBLE);
                                         webView.setVisibility(View.VISIBLE);
